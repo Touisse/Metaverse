@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/ytouisse/Desktop/REACT/METAVERSE/app/page":["/Users/ytouisse/Desktop/REACT/METAVERSE/styles/globals.css"]},"/Users/ytouisse/Desktop/REACT/METAVERSE/app/layout.js":["/Users/ytouisse/Desktop/REACT/METAVERSE/styles/globals.css"]}
