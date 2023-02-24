@@ -527,6 +527,30 @@ video {
 .mt-\[24px\] {
   margin-top: 24px;
 }
+.mt-\[31px\] {
+  margin-top: 31px;
+}
+.ml-\[20px\] {
+  margin-left: 20px;
+}
+.ml-\[30px\] {
+  margin-left: 30px;
+}
+.mt-\[px\] {
+  margin-top: px;
+}
+.mt-\[48px\] {
+  margin-top: 48px;
+}
+.mt-\[26px\] {
+  margin-top: 26px;
+}
+.mt-\[30px\] {
+  margin-top: 30px;
+}
+.mt-\[16px\] {
+  margin-top: 16px;
+}
 .flex {
   display: flex;
 }
@@ -566,6 +590,12 @@ video {
 .h-\[60px\] {
   height: 60px;
 }
+.h-\[90\%\] {
+  height: 90%;
+}
+.h-\[70px\] {
+  height: 70px;
+}
 .min-h-\[70vh\] {
   min-height: 70vh;
 }
@@ -596,11 +626,41 @@ video {
 .w-1\/2 {
   width: 50%;
 }
+.w-\[90\%\] {
+  width: 90%;
+}
+.w-\[\] {
+  width: ;
+}
+.w-\[70px\] {
+  width: 70px;
+}
 .min-w-\[170px\] {
   min-width: 170px;
 }
+.min-w-\[210\] {
+  min-width: 210;
+}
+.min-w-\[210px\] {
+  min-width: 210px;
+}
+.max-w-\[370px\] {
+  max-width: 370px;
+}
 .flex-\[2\] {
   flex: 2;
+}
+.flex-1 {
+  flex: 1 1 0%;
+}
+.flex-\[\] {
+  flex: ;
+}
+.flex-\[0\.\] {
+  flex: 0.;
+}
+.flex-\[0\.75\] {
+  flex: 0.75;
 }
 .cursor-pointer {
   cursor: pointer;
@@ -610,6 +670,9 @@ video {
 }
 .flex-col {
   flex-direction: column;
+}
+.flex-wrap {
+  flex-wrap: wrap;
 }
 .items-start {
   align-items: flex-start;
@@ -634,6 +697,9 @@ video {
 }
 .gap-5 {
   gap: 1.25rem;
+}
+.gap-\[24px\] {
+  gap: 24px;
 }
 .overflow-hidden {
   overflow: hidden;
@@ -668,6 +734,17 @@ video {
 }
 .bg-\[rgba\(0\2c 0\2c 0\2c 0\.5\)\] {
   background-color: rgba(0,0,0,0.5);
+}
+.bg-\[\#\] {
+  background-color: #;
+}
+.bg-\[\#323\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(51 34 51 / var(--tw-bg-opacity));
+}
+.bg-\[\#323f5d\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(50 63 93 / var(--tw-bg-opacity));
 }
 .object-contain {
   -o-object-fit: contain;
@@ -755,6 +832,12 @@ video {
 .leading-\[20\.16px\] {
   line-height: 20.16px;
 }
+.leading-\[32px\] {
+  line-height: 32px;
+}
+.leading-\[30px\] {
+  line-height: 30px;
+}
 .text-secondary-white {
   --tw-text-opacity: 1;
   color: rgb(199 199 199 / var(--tw-text-opacity));
@@ -762,6 +845,10 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+.text-\[\#B0B0B0\] {
+  --tw-text-opacity: 1;
+  color: rgb(176 176 176 / var(--tw-text-opacity));
 }
 .transition {
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
@@ -921,6 +1008,10 @@ video {
 
   .sm\:w-\[80px\] {
     width: 80px;
+  }
+
+  .sm\:max-w-\[250px\] {
+    max-width: 250px;
   }
 
   .sm\:p-16 {
